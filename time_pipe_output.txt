@@ -1,0 +1,4 @@
+Welcome to myShell
+Welcome to myShell
+
+Elapsed time: 0.000471 seconds
