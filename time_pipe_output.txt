@@ -1,4 +1,10 @@
-Welcome to myShell
+total 36
+-rw-r--r-- 1 889188751 vcl    20 Mar 10 20:26 README.md
+-rwxr-xr-x 1 889188751 vcl 17560 Mar 10 20:28 time
+-rw-r--r-- 1 889188751 vcl  3343 Mar 10 20:26 time_pipe.c
+-rw-r--r-- 1 889188751 vcl     0 Mar 10 20:29 time_pipe_output.txt
+-rw-r--r-- 1 889188751 vcl  3964 Mar 10 20:26 time_shm.c
+-rw-r--r-- 1 889188751 vcl   342 Mar 10 20:26 time_shm_output.txt
 Welcome to myShell
 
-Elapsed time: 0.000471 seconds
+Elapsed time: 0.005067 seconds
